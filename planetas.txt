@@ -1,4 +1,5 @@
 mercurio
 venus
 terra
+juptero
 plutao pq plutao é planeta sim (mentirinha)
